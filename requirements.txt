@@ -1,0 +1,4 @@
+celery==5.2.1
+django==3.2.9
+redis==4.0.2
+requests==2.26.0
